@@ -21,8 +21,3 @@ initMenuMobile();
 initFuncionamento();
 initFetchAnimais();
 initFetchBitcoin();
-
-$("mav").hide();
-const diferenca = _.difference(["Banana", "Uva"], ["Banana", "Morango"]);
-
-console.log(diferenca);
